@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	api "github.com/yahoo/k8s-athenz-webhook"
+	api "github.com/falz-tino/k8s-athenz-webhook"
 	authn "k8s.io/api/authentication/v1beta1"
 	authz "k8s.io/api/authorization/v1beta1"
 )

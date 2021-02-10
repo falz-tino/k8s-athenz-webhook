@@ -1,4 +1,4 @@
-module github.com/yahoo/k8s-athenz-webhook
+module github.com/falz-tino/k8s-athenz-webhook
 
 go 1.12
 

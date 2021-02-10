@@ -25,7 +25,7 @@ import (
 	"syscall"
 	"time"
 
-	api "github.com/yahoo/k8s-athenz-webhook"
+	api "github.com/falz-tino/k8s-athenz-webhook"
 
 	"github.com/yahoo/athenz/libs/go/zmssvctoken"
 )
